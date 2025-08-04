@@ -212,6 +212,17 @@ min-width: 169px;
     width: calc((100% - 72px) / 3);
 }
 
+.mini-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    border: 1px solid #8e8f99;
+    margin-bottom: 8px;
+}
+
 .mini-title {
     font-weight: 500;
         font-size: 20px;
