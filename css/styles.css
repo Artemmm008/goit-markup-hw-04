@@ -351,7 +351,7 @@ min-width: 169px;
 }
 
 .portfolio-li:hover .portfolio-div-text {
-transform: translateY(0%);
+    transform: translateY(0%);
 }
 
 .app-box {
