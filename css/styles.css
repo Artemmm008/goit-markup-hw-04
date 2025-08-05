@@ -364,7 +364,7 @@ min-width: 169px;
 
 }
 
-.portfolio-div-img {
+.portfolio-container {
     position: relative;
     overflow: hidden;
 }
