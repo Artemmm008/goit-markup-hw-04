@@ -350,7 +350,7 @@ min-width: 169px;
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
-.portfolio-li:hover .div-text {
+.portfolio-li:hover .portfolio-div-text {
 transform: translateY(0%);
 }
 
@@ -364,12 +364,12 @@ transform: translateY(0%);
 
 }
 
-.div-img {
+.portfolio-div-img {
     position: relative;
     overflow: hidden;
 }
 
-.div-text {
+.portfolio-div-text {
     position: absolute;
     top: 0;
     font-size: 16px;
